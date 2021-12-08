@@ -1,11 +1,18 @@
+<<<<<<< HEAD
 "Bohemian Rhapsody" - Queen
 "Fat Bottomed Girls" - Queen
 
 "We will rock you" - Queen
+=======
+"Earth song" - Michael Jackson
+"Billie Jean" - Michael Jackson
+"Mamma Mia" - ABBA
+"Don't Stop Me Now" - Queen
+>>>>>>> c150240f22a896c9b835b71cf87ce7bba5a567f6
 "Somebody to Love" - Queen
 "Who Wants to Live Forever" - Queen
 "Crazy Little Thing Called Love" - Queen
 'Under Pressure' - Queen
 'The Show Must Go On' - Queen
 'Killer queen' - Queen
-
+'Killing Moon' - Echo and the Bunny Man
